@@ -1,20 +1,35 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About TL-Li"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-
-I'm a student from [School of ECE](https://ece.pku.edu.cn/), [Peking University](https://www.pku.edu.cn/). 
-My research interest includes reinforcement learning, machine learning, and so on.
+## 简介
 
 
-A data-driven personal website
-======
-Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+**李天乐**,北京大学深圳研究生学院在读博士生。于24年在武汉大学计算机学院获得工学学士学位。目前研究方向聚焦于强化学习，研究内容主要为多智能体强化学习以及各种优化类问题。
+
+
+## 研究兴趣
++ 深度学习
++ 强化学习
++ 最优化问题
+
+## 教育经历
++ **2024.9 至今**
+  博士生，北京大学深圳研究生院，通信工程与信息系统
++ **2020.9 - 2024.6**
+  工学学士学位，武汉大学计算机学院
+
+## 获奖
++ 武汉大学三好学生，2023
++ 武汉大学甲等奖学金，2023
++ 武汉大学“于刚 宋晓”奖学金，2023
+
+## 联系方式
++ E-mali: litianle@whu.edu.cn; litianle@stu.pku.edu.cn
 
